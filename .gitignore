@@ -1,0 +1,9 @@
+*.pyc
+*.pyd
+settings.py
+.vscode
+*.db
+.DS_Store
+.history
+.python-version
+npm-debug.log
